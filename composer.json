@@ -1,0 +1,14 @@
+{
+    "name": "auto-builds/backstage",
+    "description": "后台自动构建系统",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hanfengyang",
+            "email": "191742199@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
